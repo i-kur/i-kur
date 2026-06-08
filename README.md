@@ -1,5 +1,4 @@
-## hello there!
+## hello!
 
 - 🌱 a student – learning everyday.
 - 📫 my e-mail: ikur@cc.cc
-- 🧬 pronouns: he/they
